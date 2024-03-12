@@ -27,7 +27,7 @@ struct token
  * \param elt Value of the token
  * \return The allocated token
  */
-struct token*token_num_init(int elt);
+struct token *token_num_init(int elt);
 
 /**
  * \brief Initialize a operator token on the heap
