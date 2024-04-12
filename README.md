@@ -1,7 +1,7 @@
 # evalexpr
 Arithmetic expression evaluator handling both standard notation and reverse polish notation (RPN).
 ## Project Description
-This project was made after two weeks on learning in C during my third year (ING1) at EPITA. Made in rouglhy two days it has the purpose to evaluate arithmetic expression, which is then displayed on stdout and returns the error code.
+This project was made after two days on learning in C during my third year (ING1) at EPITA. Made in rouglhy two days it has the purpose to evaluate arithmetic expression, which is then displayed on stdout and returns the error code.
 ## Makefile
 - Produces the 'evalexpr' binary
 ```sh
